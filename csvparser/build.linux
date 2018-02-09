@@ -1,0 +1,5 @@
+#!/bin/bash
+
+pushd /Users/matteo/work/kevin2/csvparser
+./parser.pl < data.csv
+
